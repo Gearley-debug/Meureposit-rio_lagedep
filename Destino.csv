@@ -1,157 +1,156 @@
 A tibble: 160 x 3
-Origem;DESTINO;Curso
+OrigemDESTINO Curso
 <chr>          <chr>    <dbl>
-desconhecido - BA;RMGV;6
-desconhecido - CE;RMGV;1
-INTEREST - AL - Santa Luzia do norte;RMGV;1
-INTEREST - BA - Almadino;RMGV;1
-INTEREST - BA - Aurelino Leal;RMGV;1
-INTEREST - BA - Camacan;RMGV;1
-INTEREST - BA - Canavieiras;RMGV;2
-INTEREST - BA - Caravelas;RMGV;4
-INTEREST - BA - Carlos Chagas;RMGV;1
-INTEREST - BA - Eunapolis;RMGV;1
-INTEREST - BA - Guaratinga;RMGV;1
-INTEREST - BA - Ibicarai;RMGV;1
-INTEREST - BA - Ilheus;RMGV;4
-INTEREST - BA - Itabuna;RMGV;2
-INTEREST - BA - Itajuipe;RMGV;2
-INTEREST - BA - Itamaraju;RMGV;2
-INTEREST - BA - Itanhem;RMGV;1
-INTEREST - BA - Itapemirim;RMGV;1
-INTEREST - BA - Itubera;RMGV;1
-INTEREST - BA - Medeiros Neto;RMGV;1
-INTEREST - BA - Mucuri;RMGV;1
-INTEREST - BA - Nova Itarana;RMGV;1
-INTEREST - BA - Nova Viçosa;RMGV;2
-INTEREST - BA - Oruçu;RMGV;1
-INTEREST - BA - Paulo Afonso;RMGV;1
-INTEREST - BA - Porto Seguro;RMGV;1
-INTEREST - BA - Potiragua;RMGV;1
-INTEREST - BA - Prado;RMGV;1
-INTEREST - BA - Prado;RMGV;1
-INTEREST - BA - Salvador;RMGV;2
-INTEREST - BA - Teixeira de Freitas;RMGV;1
-INTEREST - BA - Una;RMGV;1
-INTEREST - BA - Uruçuba;RMGV;1
-INTEREST - BA - Valencia;RMGV;1
-INTEREST - BA - Vitoria da Conquista;RMGV;1
-INTEREST - CE - Acopiara;RMGV;1
-INTEREST - GO - Goiania;RMGV;1
-INTEREST - MA - Araujos;RMGV;1
-INTEREST - MA - Imperatriz;RMGV;1
-INTEREST - MA - Sao Luis;RMGV;1
-INTEREST - MG - Aimorés;RMGV;1
-INTEREST - MG - Belo Horizonte;RMGV;4
-INTEREST - MG - Bertopolis;RMGV;1
-INTEREST - MG - Cachoeira da Prata;RMGV;1
-INTEREST - MG - Caete;RMGV;1
-INTEREST - MG - Carangola;RMGV;1
-INTEREST - MG - Caratinga;RMGV;1
-INTEREST - MG - Caratinga;RMGV;1
-INTEREST - MG - Conceiçao Capim;RMGV;1
-INTEREST - MG - Conselheiro Pena;RMGV;2
-INTEREST - MG - Governador Valadares;RMGV;6
-INTEREST - MG - Iapu;RMGV;1
-INTEREST - MG - Ipatinga;RMGV;1
-INTEREST - MG - Itabira;RMGV;1
-INTEREST - MG - Itabirim de Mantena;RMGV;1
-INTEREST - MG - Itanhomi;RMGV;2
-INTEREST - MG - Itauna;RMGV;1
-INTEREST - MG - Januaria;RMGV;1
-INTEREST - MG - Joao Monlevade;RMGV;1
-INTEREST - MG - Juaima;RMGV;1
-INTEREST - MG - Ladainha;RMGV;1
-INTEREST - MG - Lajinhas;RMGV;1
-INTEREST - MG - Mantena;RMGV;5
-INTEREST - MG - Mantenopolis;RMGV;1
-INTEREST - MG - Matipo;RMGV;1
-INTEREST - MG - Minas Gerais;RMGV;1
-INTEREST - MG - Miradouro;RMGV;1
-INTEREST - MG - Mirai;RMGV;1
-INTEREST - MG - Mutum;RMGV;1
-INTEREST - MG - Nanuque;RMGV;2
-INTEREST - MG - Nova Era;RMGV;1
-INTEREST - MG - Nova Lima;RMGV;1
-INTEREST - MG - Ouro Branco;RMGV;1
-INTEREST - MG - Pocrane;RMGV;1
-INTEREST - MG - Resplendor;RMGV;3
-INTEREST - MG - Rio Casca;RMGV;1
-INTEREST - MG - Salto da Divisa;RMGV;1
-INTEREST - MG - Santa Luzia;RMGV;1
-INTEREST - MG - Santo Antonio de Pádua;RMGV;1
-INTEREST - MG - Sao Manoel de Mutu;RMGV;1
-INTEREST - MG - Teofilo Otoni;RMGV;1
-INTEREST - MG - Timoteo;RMGV;1
-INTEREST - MG - Ubaitaba;RMGV;1
-INTEREST - MG - Valadares;RMGV;5
-INTEREST - MG - Varginha;RMGV;1
-INTEREST - PB - Paraiba;RMGV;1
-INTEREST - PE - Jatoba;RMGV;1
-INTEREST - PE - Pernambuco;RMGV;1
-INTEREST - PE - Recife;RMGV;2
-INTEREST - PI - Parnaíba;RMGV;1
-INTEREST - RJ - Campos Dos Goytacazes;RMGV;1
-INTEREST - RJ - Casemiro De Abreu;RMGV;1
-INTEREST - RJ - Mage;RMGV;1
-INTEREST - RJ - Miguel Pereira;RMGV;1
-INTEREST - RJ - Nova Iguaçu;RMGV;1
-INTEREST - RJ - Parati;RMGV;1
-INTEREST - RJ - Penha;RMGV;1
-INTEREST - RJ - Rio de Janeiro;RMGV;13
-INTEREST - RJ - Santo Antônio de Pádua;RMGV;1
-INTEREST - RJ - Volta Redonda;RMGV;1
-INTEREST - RN - Natal;RMGV;1
-INTEREST - RS - Cachoeiro do Sul;RMGV;1
-INTEREST - RS - Guaibes;RMGV;1
-INTEREST - SP - Santa Barbara do Oeste;RMGV;1
-INTEREST - SP - Santo Andre;RMGV;1
-INTEREST - SP - Sao Paulo;RMGV;1
-INTEREST - SP - Sao Paulo;RMGV;1
-INTRAEST - AL - Cajueiro;RMGV;2
-INTRAEST - ES - Afonso Claudio;RMGV;4
-INTRAEST - ES - Aguia Branca;RMGV;2
-INTRAEST - ES - Apiaca;RMGV;1
-INTRAEST - ES - Aracruz;RMGV;3
-INTRAEST - ES - Baixo Guandu;RMGV;7
-INTRAEST - ES - Barra de São Francisco;RMGV;9
-INTRAEST - ES - Cachoeiro de Itapemirim;RMGV;5
-INTRAEST - ES - Castelo;RMGV;1
-INTRAEST - ES - Colatina;RMGV;9
-INTRAEST - ES - Conceicao da Barra;RMGV;2
-INTRAEST - ES - Conselheiro Pena;RMGV;1
-INTRAEST - ES - Domingos Martins;RMGV;1
-INTRAEST - ES - Ecoporanga;RMGV;1
-INTRAEST - ES - Governador Lindemberg;RMGV;1
-INTRAEST - ES - Ibatiba;RMGV;1
-INTRAEST - ES - Ibiraçu;RMGV;2
-INTRAEST - ES - Itaguacu;RMGV;1
-INTRAEST - ES - Itapebi;RMGV;1
-INTRAEST - ES - Itaunas;RMGV;1
-INTRAEST - ES - Jerônimo Monteiro;RMGV;1
-INTRAEST - ES - Joao Neiva;RMGV;2
-INTRAEST - ES - Laranja da Terra;RMGV;1
-INTRAEST - ES - Linhares;RMGV;8
-INTRAEST - ES - Marataizes;RMGV;1
-INTRAEST - ES - Montanha;RMGV;1
-INTRAEST - ES - Muniz Freire;RMGV;1
-INTRAEST - ES - Nova Venécia;RMGV;1
-INTRAEST - ES - Pancas;RMGV;6
-INTRAEST - ES - Pinheiros;RMGV;1
-INTRAEST - ES - Presidente Kennedy;RMGV;1
-INTRAEST - ES - Santa Leopoldina;RMGV;1
-INTRAEST - ES - Santa Teresa;RMGV;5
-INTRAEST - ES - Sao Gabriel da Palha;RMGV;4
-INTRAEST - ES - Sao Mateus;RMGV;6
-INTRAEST - ES - Timoteo;RMGV;1
-INTRAEST - ES - Vila Pavao;RMGV;1
-desconhecido - MA;RMGV;1
-desconhecido - MG;RMGV;4
-desconhecido - PI;RMGV;1
-desconhecido - PR;RMGV;2
-RMGV - Cariacica;RMGV;14
-RMGV - Fundao;RMGV;1
-RMGV - Serra;RMGV;29
-RMGV - Viana;RMGV;6
-RMGV - Vila Velha;RMGV;34
-RMGV - Vitoria;RMGV;102
+desconBA RMGV 6
+desconCE RMGV 1
+2Santa Luzia do norte RMGV 1
+2Almadino RMGV 1
+2Aurelino Leal RMGV 1
+2Camacan RMGV 1
+2Canavieiras RMGV 2
+2Caravelas RMGV 4
+2Carlos Chagas RMGV 1
+2IEunapolis RMGV 1
+2Guaratinga RMGV 1
+2Ibicarai RMGV 1
+2Ilheus RMGV 4
+2Itabuna RMGV 2
+2Itajuipe RMGV 2
+2Itamaraju RMGV 2
+2Itanhem RMGV 1
+2Itapemirim RMGV 1
+2Itubera RMGV 1
+2Medeiros Neto RMGV 1
+2Mucuri RMGV 1
+2Nova Itarana RMGV 1
+2Nova Vicosa RMGV 2
+2Orucu RMGV 1
+2Paulo Afonso RMGV 1
+2Porto Seguro RMGV 1
+2Potiragua RMGV 1
+2Prado RMGV 2
+2Salvador RMGV 2
+2Teixeira de Freitas RMGV 1
+2Una RMGV 1
+2Uruçuba RMGV 1
+2Valencia RMGV 1
+2Vitoria da Conquista RMGV 1
+2Acopiara RMGV 1
+2Goiania RMGV 1
+2Araujos RMGV 1
+2Imperatriz RMGV 1
+2Sao Luis RMGV 1
+2Aimorés RMGV 1
+2Belo Horizonte RMGV 4
+2Bertopolis RMGV 1
+2Cachoeira da Prata RMGV 1
+2Caete RMGV 1
+2Carangola RMGV 1
+2Caratinga RMGV 1
+2Caratinga RMGV 1
+2Conceiçao Capim RMGV 1
+2Conselheiro Pena RMGV 2
+2Governador Valadares RMGV 6
+2Iapu RMGV 1
+2Ipatinga RMGV 1
+2Itabira RMGV 1
+2Itabirim de Mantena RMGV 1
+2Itanhomi RMGV 2
+2Itauna RMGV 1
+2Januaria RMGV 1
+2Joao Monlevade RMGV 1
+2Juaima RMGV 1
+2Ladainha RMGV 1
+2Lajinhas RMGV 1
+2Mantena RMGV 5
+2Mantenopolis RMGV 1
+2Matipo RMGV 1
+2Minas Gerais RMGV 1
+2Miradouro RMGV 1
+2Mirai RMGV 1
+2Mutum RMGV 1
+2Nanuque RMGV 2
+2Nova Era RMGV 1
+2Nova Lima RMGV 1
+2Ouro Branco RMGV 1
+2Pocrane RMGV 1
+2Resplendor RMGV 3
+2Rio Casca RMGV 1
+2Salto da Divisa RMGV 1
+2Santa Luzia RMGV 1
+2Santo Antonio de Pádua RMGV 1
+2Sao Manoel de Mutu RMGV 1
+2Teofilo Otoni RMGV 1
+2Timoteo RMGV 1
+2Ubaitaba RMGV 1
+2Valadares RMGV 5
+2Varginha RMGV 1
+2Paraiba RMGV 1
+2Jatoba RMGV 1
+2Pernambuco RMGV 1
+2Recife RMGV 2
+2Parnaíba RMGV 1
+2Campos Dos Goytacazes RMGV 1
+2Casemiro De Abreu RMGV 1
+2Mage RMGV 1
+2Miguel Pereira RMGV1
+2Nova Iguaçu RMGV 1
+2Parati RMGV 1
+2Penha RMGV 1
+2Rio de Janeiro RMGV 13
+2Santo Antônio de Padua RMGV 1
+2Volta Redonda RMGV 1
+2Natal RMGV 1
+2Cachoeiro do Sul RMGV 1
+2Guaibes RMGV 1
+2Santa Barbara do Oeste RMGV 1
+2Santo Andre RMGV 1
+2Sao Paulo RMGV 1
+2Sao Paulo RMGV 1
+2Cajueiro RMGV 2
+2Afonso Claudio RMGV 4
+2Aguia Branca RMGV 2
+2Apiaca RMGV 1
+2Aracruz RMGV 3
+2Baixo Guandu RMGV 7
+2Barra de São Francisco RMGV 9
+2Cachoeiro de Itapemirim RMGV 5
+2Castelo RMGV 1
+2Colatina RMGV 9
+2Conceicao da Barra RMGV 2
+2Conselheiro Pena RMGV 1
+2Domingos Martins RMGV 1
+2Ecoporanga RMGV 1
+2Governador Lindemberg RMGV 1
+2Ibatiba RMGV 1
+2Ibiraçu RMGV 2
+2Itaguacu RMGV 1
+2Itapebi RMGV 1
+2Itaunas RMGV 1
+2Jeronimo Monteiro RMGV 1
+2Joao Neiva RMGV 2
+2Laranja da Terra RMGV 1
+2Linhares RMGV 8
+2Marataizes RMGV 1
+2Montanha RMGV 1
+2Muniz Freire RMGV 1
+2Nova Venécia RMGV 1
+2Pancas RMGV 6
+2Pinheiros RMGV 1
+2Presidente Kennedy RMGV 1
+2Santa Leopoldina RMGV 1
+2Santa Teresa RMGV 5
+2Sao Gabriel da Palha RMGV 4
+2Sao Mateus RMGV 6
+3Timoteo RMGV 1
+2Vila Pavao RMGV 1
+3MA RMGV 1
+3MG RMGV 4
+3PI RMGV 1
+3PR RMGV 2
+1Cariacica RMGV 14
+1Fundao RMGV 1
+1Serra RMGV 29
+1Viana RMGV 6
+1Vila Velha RMGV 34
+1Vitoria RMGV 102
