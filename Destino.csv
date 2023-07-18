@@ -1,15 +1,15 @@
 A tibble: 160 x 3
-OrigemDESTINO Curso
+Origem,DESTINO,Curso
 <chr>          <chr>    <dbl>
-desconBA RMGV 6
-desconCE RMGV 1
-2Santa Luzia do norte RMGV 1
-2Almadino RMGV 1
-2Aurelino Leal RMGV 1
-2Camacan RMGV 1
-2Canavieiras RMGV 2
-2Caravelas RMGV 4
-2Carlos Chagas RMGV 1
+desconBA,RMGV,6
+desconCE,RMGV,1
+2Santa Luzia do norte,RMGV,1
+2Almadino,RMGV,1
+2Aurelino Leal,RMGV,1
+2Camacan,RMGV,1
+2Canavieiras,RMGV,2
+2Caravelas,RMGV,4
+2Carlos,Chagas,RMGV,1
 2IEunapolis RMGV 1
 2Guaratinga RMGV 1
 2Ibicarai RMGV 1
