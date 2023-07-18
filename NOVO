@@ -1,0 +1,157 @@
+## # A tibble: 156 x 3
+## Origem	Destino	Curso
+##    <chr>          <chr>    <dbl>
+desconhecido - BA	RMGV	6
+desconhecido - CE	RMGV	1
+INTEREST - AL - Santa Luzia do norte	RMGV	1
+INTEREST - BA - Almadino	RMGV	1
+INTEREST - BA - Aurelino Leal	RMGV	1
+INTEREST - BA - Camacan	RMGV	1
+INTEREST - BA - Canavieiras	RMGV	2
+INTEREST - BA - Caravelas	RMGV	4
+INTEREST - BA - Carlos Chagas	RMGV	1
+INTEREST - BA - Eunapolis	RMGV	1
+INTEREST - BA - Guaratinga	RMGV	1
+INTEREST - BA - Ibicarai	RMGV	1
+INTEREST - BA - Ilheus	RMGV	4
+INTEREST - BA - Itabuna	RMGV	2
+INTEREST - BA - Itajuipe	RMGV	2
+INTEREST - BA - Itamaraju	RMGV	2
+INTEREST - BA - Itanhem	RMGV	1
+INTEREST - BA - Itapemirim	RMGV	1
+INTEREST - BA - Itubera	RMGV	1
+INTEREST - BA - Medeiros Neto	RMGV	1
+INTEREST - BA - Mucuri	RMGV	1
+INTEREST - BA - Nova Itarana	RMGV	1
+INTEREST - BA - Nova Viçosa	RMGV	2
+INTEREST - BA - Oruçu	RMGV	1
+INTEREST - BA - Paulo Afonso	RMGV	1
+INTEREST - BA - Porto Seguro	RMGV	1
+INTEREST - BA - Potiragua	RMGV	1
+INTEREST - BA - Prado	RMGV	1
+INTEREST - BA - Prado	RMGV	1
+INTEREST - BA - Salvador	RMGV	2
+INTEREST - BA - Teixeira de Freitas	RMGV	1
+INTEREST - BA - Una	RMGV	1
+INTEREST - BA - Uruçuba	RMGV	1
+INTEREST - BA - Valencia	RMGV	1
+INTEREST - BA - Vitoria da Conquista	RMGV	1
+INTEREST - CE - Acopiara	RMGV	1
+INTEREST - GO - Goiania	RMGV	1
+INTEREST - MA - Araujos	RMGV	1
+INTEREST - MA - Imperatriz	RMGV	1
+INTEREST - MA - Sao Luis	RMGV	1
+INTEREST - MG - Aimorés	RMGV	1
+INTEREST - MG - Belo Horizonte	RMGV	4
+INTEREST - MG - Bertopolis	RMGV	1
+INTEREST - MG - Cachoeira da Prata	RMGV	1
+INTEREST - MG - Caete	RMGV	1
+INTEREST - MG - Carangola	RMGV	1
+INTEREST - MG - Caratinga	RMGV	1
+INTEREST - MG - Caratinga	RMGV	1
+INTEREST - MG - Conceiçao Capim	RMGV	1
+INTEREST - MG - Conselheiro Pena	RMGV	2
+INTEREST - MG - Governador Valadares	RMGV	6
+INTEREST - MG - Iapu	RMGV	1
+INTEREST - MG - Ipatinga	RMGV	1
+INTEREST - MG - Itabira	RMGV	1
+INTEREST - MG - Itabirim de Mantena	RMGV	1
+INTEREST - MG - Itanhomi	RMGV	2
+INTEREST - MG - Itauna	RMGV	1
+INTEREST - MG - Januaria	RMGV	1
+INTEREST - MG - Joao Monlevade	RMGV	1
+INTEREST - MG - Juaima	RMGV	1
+INTEREST - MG - Ladainha	RMGV	1
+INTEREST - MG - Lajinhas	RMGV	1
+INTEREST - MG - Mantena	RMGV	5
+INTEREST - MG - Mantenopolis	RMGV	1
+INTEREST - MG - Matipo	RMGV	1
+INTEREST - MG - Minas Gerais	RMGV	1
+INTEREST - MG - Miradouro	RMGV	1
+INTEREST - MG - Mirai	RMGV	1
+INTEREST - MG - Mutum	RMGV	1
+INTEREST - MG - Nanuque	RMGV	2
+INTEREST - MG - Nova Era	RMGV	1
+INTEREST - MG - Nova Lima	RMGV	1
+INTEREST - MG - Ouro Branco	RMGV	1
+INTEREST - MG - Pocrane	RMGV	1
+INTEREST - MG - Resplendor	RMGV	3
+INTEREST - MG - Rio Casca	RMGV	1
+INTEREST - MG - Salto da Divisa	RMGV	1
+INTEREST - MG - Santa Luzia	RMGV	1
+INTEREST - MG - Santo Antonio de Pádua	RMGV	1
+INTEREST - MG - Sao Manoel de Mutu	RMGV	1
+INTEREST - MG - Teofilo Otoni	RMGV	1
+INTEREST - MG - Timoteo	RMGV	1
+INTEREST - MG - Ubaitaba	RMGV	1
+INTEREST - MG - Valadares	RMGV	5
+INTEREST - MG - Varginha	RMGV	1
+INTEREST - PB - Paraiba	RMGV	1
+INTEREST - PE - Jatoba	RMGV	1
+INTEREST - PE - Pernambuco	RMGV	1
+INTEREST - PE - Recife	RMGV	2
+INTEREST - PI - Parnaíba	RMGV	1
+INTEREST - RJ - Campos Dos Goytacazes	RMGV	1
+INTEREST - RJ - Casemiro De Abreu	RMGV	1
+INTEREST - RJ - Mage	RMGV	1
+INTEREST - RJ - Miguel Pereira	RMGV	1
+INTEREST - RJ - Nova Iguaçu	RMGV	1
+INTEREST - RJ - Parati	RMGV	1
+INTEREST - RJ - Penha	RMGV	1
+INTEREST - RJ - Rio de Janeiro	RMGV	13
+INTEREST - RJ - Santo Antônio de Pádua	RMGV	1
+INTEREST - RJ - Volta Redonda	RMGV	1
+INTEREST - RN - Natal	RMGV	1
+INTEREST - RS - Cachoeiro do Sul	RMGV	1
+INTEREST - RS - Guaibes	RMGV	1
+INTEREST - SP - Santa Barbara do Oeste	RMGV	1
+INTEREST - SP - Santo Andre	RMGV	1
+INTEREST - SP - Sao Paulo	RMGV	1
+INTEREST - SP - Sao Paulo	RMGV	1
+INTRAEST - AL - Cajueiro	RMGV	2
+INTRAEST - ES - Afonso Claudio	RMGV	4
+INTRAEST - ES - Aguia Branca	RMGV	2
+INTRAEST - ES - Apiaca	RMGV	1
+INTRAEST - ES - Aracruz	RMGV	3
+INTRAEST - ES - Baixo Guandu	RMGV	7
+INTRAEST - ES - Barra de São Francisco	RMGV	9
+INTRAEST - ES - Cachoeiro de Itapemirim	RMGV	5
+INTRAEST - ES - Castelo	RMGV	1
+INTRAEST - ES - Colatina	RMGV	9
+INTRAEST - ES - Conceicao da Barra	RMGV	2
+INTRAEST - ES - Conselheiro Pena	RMGV	1
+INTRAEST - ES - Domingos Martins	RMGV	1
+INTRAEST - ES - Ecoporanga	RMGV	1
+INTRAEST - ES - Governador Lindemberg	RMGV	1
+INTRAEST - ES - Ibatiba	RMGV	1
+INTRAEST - ES - Ibiraçu	RMGV	2
+INTRAEST - ES - Itaguacu	RMGV	1
+INTRAEST - ES - Itapebi	RMGV	1
+INTRAEST - ES - Itaunas	RMGV	1
+INTRAEST - ES - Jerônimo Monteiro	RMGV	1
+INTRAEST - ES - Joao Neiva	RMGV	2
+INTRAEST - ES - Laranja da Terra	RMGV	1
+INTRAEST - ES - Linhares	RMGV	8
+INTRAEST - ES - Marataizes	RMGV	1
+INTRAEST - ES - Montanha	RMGV	1
+INTRAEST - ES - Muniz Freire	RMGV	1
+INTRAEST - ES - Nova Venécia	RMGV	1
+INTRAEST - ES - Pancas	RMGV	6
+INTRAEST - ES - Pinheiros	RMGV	1
+INTRAEST - ES - Presidente Kennedy	RMGV	1
+INTRAEST - ES - Santa Leopoldina	RMGV	1
+INTRAEST - ES - Santa Teresa	RMGV	5
+INTRAEST - ES - Sao Gabriel da Palha	RMGV	4
+INTRAEST - ES - Sao Mateus	RMGV	6
+INTRAEST - ES - Timoteo	RMGV	1
+INTRAEST - ES - Vila Pavao	RMGV	1
+desconhecido - MA	RMGV	1
+desconhecido - MG	RMGV	4
+desconhecido - PI	RMGV	1
+desconhecido - PR	RMGV	2
+RMGV - Cariacica	RMGV	14
+RMGV - Fundao	RMGV	1
+RMGV - Serra	RMGV	29
+RMGV - Viana	RMGV	6
+RMGV - Vila Velha	RMGV	34
+RMGV - Vitoria	RMGV	102
